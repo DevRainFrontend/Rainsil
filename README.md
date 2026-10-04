@@ -1,4 +1,4 @@
-# Discord Nuke Bot
+# Discord Kanal ve Rol Botu
 
 Bu bot, Discord sunucunuzdaki **tüm kanalları ve rolleri** silmenizi sağlayan basit ve etkili bir araçtır. Üyeleri veya botları sunucudan atmaz (kicklemez), sadece kanalları ve rolleri temizler.
 
